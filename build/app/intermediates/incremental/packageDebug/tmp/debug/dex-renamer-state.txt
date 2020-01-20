@@ -1,0 +1,4 @@
+#Mon Jan 20 02:56:08 EET 2020
+base.0=/home/onur/Desktop/flutter/hello_world/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
